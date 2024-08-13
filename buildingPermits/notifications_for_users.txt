@@ -1,0 +1,35 @@
+notifications to users:
+
+1. you have successfully registered for the initials steps for the building permit application. thank you. you will be Notified later.
+
+1.2 you may now proceed to the next step of your application with your building permit. Please visit the office of the building official at your convenient time.
+
+2.1 lacking requirements please comply.
+
+2.2 on going assessment.
+
+3.4 your application has been rejected and cannot proceed to the next step of the application. Please visit the office of the building official for more details. [END]
+
+4.3 your total assessment amount at the office of the building official is P 0.00. your document is now forwarded to mpdc.
+
+1. mdpc has receive the documents for assessment.
+
+6.1 your application is rejected by the mpdc. Please visit the office of the building official for more details.
+
+6.2 your total assessment amount at mpdc office is P 0.00. You may now proceed to the office of the building official for the copy of your order of payment.
+
+1. your assessment has been paid. your document is now ready to be forwarded to bfp.
+
+2. your documents has been forwarded to bfp. / On going assessment by the bfp.
+
+6.1 your application is rejected by the bfp. Please visit the office of the building official for more details.
+
+1.  your total assessment amount at bfp office is P 0.00. You may now proceed to the bfp office for payment.
+
+2.  your assessment from bfp office has been paid. your document is ready to be forwarded back to office of the building official.
+
+3.  your document is received by the building official.
+
+4.  your documents is forwarded to the mayor's office for mayor's permit. Your document is being on process. Please wait for the next notification for approval.
+
+5.  Your application has been approved. You may now claim your permit at the office of the building official.
